@@ -11,3 +11,5 @@ To answer the question of what aspects affect card price, data were scraped from
 This repo contains 2 Jupyter notebooks. The first is for scraping and cleaning data from CardKingdom.com. The second is contains code to run a regression analysis of scraped data. 
 
 This repo also contains a .py file of all functions created for this project.
+
+Read my blog post about this project: https://noah-jaffe.medium.com/using-linear-regression-to-predict-the-price-of-magic-the-gathering-cards-56634ab5e926
