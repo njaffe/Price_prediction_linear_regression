@@ -13,3 +13,15 @@ This repo contains 2 Jupyter notebooks. The first is for scraping and cleaning d
 This repo also contains a .py file of all functions created for this project.
 
 Read my blog post about this project: https://noah-jaffe.medium.com/using-linear-regression-to-predict-the-price-of-magic-the-gathering-cards-56634ab5e926
+
+### Tools and techniques used
+- [Jupyter](https://jupyter.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Numpy](https://numpy.org/)
+- [Scikit-learn](https://scikit-learn.org/stable/)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/index.html)
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [Selenium](https://www.selenium.dev/)
+- [Linear Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+- [K-fold cross validation](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html)
